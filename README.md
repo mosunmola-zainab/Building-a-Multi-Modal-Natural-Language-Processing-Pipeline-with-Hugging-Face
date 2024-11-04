@@ -12,8 +12,8 @@ This project implements a multi-modal natural language processing (NLP) pipeline
 
 ## Features
 
-- **Emoji Classification:** Uses the `[cardiffnlp/twitter-roberta-base-emoji](https://huggingface.co/cardiffnlp/twitter-roberta-base-emoji)` model for predicting emojis based on text input.
-- **Text Translation:** Implements the `[google/flan-t5-base](https://huggingface.co/google/flan-t5-base)` model for translating text between languages.
+- **Emoji Classification:** Uses the [cardiffnlp/twitter-roberta-base-emoji](https://huggingface.co/cardiffnlp/twitter-roberta-base-emoji) model for predicting emojis based on text input.
+- **Text Translation:** Implements the [google/flan-t5-base](https://huggingface.co/google/flan-t5-base) model for translating text between languages.
 - **Image Captioning:** Generates intuitive captions for images using the [BLIP model](https://huggingface.co/docs/transformers/main/en/model_doc/blip), improving dataset descriptions.
 
 ## Datasets
